@@ -88,7 +88,10 @@ Estos archivos deben conservarse o generarse mediante el procedimiento de inicia
 
 ## 10. Autores
 
-Proyecto académico desarrollado como parte de las actividades de la asignatura correspondiente.
+Proyecto académico desarrollado como parte de las actividades de la asignatura reconocimiento de patrones sintactico estructural 
+-Gomez Noyola Aaron Valentin
+-Ceballos Salinas Luis Angel
+-Juarez Matinez Aide Esmeralda
 
 ## 11. Estado del proyecto
 
